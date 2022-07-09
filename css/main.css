@@ -189,9 +189,7 @@ a {
   align-items: center;
   text-align: center;
 }
-.into-slider__text {
-  font-size: calc(20px + 13 * ((100vw - 320px) / (1328 - 320)));
-}
+
 .intro-slider__link {
   display: inline-block;
   color: #fff;
