@@ -189,7 +189,9 @@ a {
   align-items: center;
   text-align: center;
 }
-
+.into-slider__text{
+	
+}
 .intro-slider__link {
   display: inline-block;
   color: #fff;
