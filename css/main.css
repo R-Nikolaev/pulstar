@@ -189,8 +189,8 @@ a {
   align-items: center;
   text-align: center;
 }
-.into-slider__text{
-	
+.into-slider__text {
+  font-size: calc(23px + 10 * ((100vw - 320px) / (1328 - 320)));
 }
 .intro-slider__link {
   display: inline-block;
@@ -476,8 +476,8 @@ a {
   text-decoration: none;
   color: var(--text);
 }
-.journal-logo__desc__link:hover{
-	color: var(--accent);
+.journal-logo__desc__link:hover {
+  color: var(--accent);
 }
 .journal-content {
   display: flex;
@@ -493,8 +493,8 @@ a {
   text-decoration: none;
   color: var(--text);
 }
-.journal-content__header__link:hover{
-	color: var(--accent);
+.journal-content__header__link:hover {
+  color: var(--accent);
 }
 .journal-content-news-item {
   display: flex;
